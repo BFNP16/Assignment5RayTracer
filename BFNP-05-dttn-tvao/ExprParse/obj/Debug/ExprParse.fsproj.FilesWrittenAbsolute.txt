@@ -1,0 +1,6 @@
+/Users/TVANO/Google Drive/ITU/4. semester/Functional Programming/Handin05/RayTracer/ExprParse/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.fs
+/Users/TVANO/Google Drive/ITU/4. semester/Functional Programming/Handin05/RayTracer/ExprParse/bin/Debug/FSharp.Core.dll
+/Users/TVANO/Google Drive/ITU/4. semester/Functional Programming/Handin05/RayTracer/ExprParse/bin/Debug/ExprParse.dll.mdb
+/Users/TVANO/Google Drive/ITU/4. semester/Functional Programming/Handin05/RayTracer/ExprParse/bin/Debug/ExprParse.dll
+/Users/TVANO/Google Drive/ITU/4. semester/Functional Programming/Handin05/RayTracer/ExprParse/obj/Debug/ExprParse.dll
+/Users/TVANO/Google Drive/ITU/4. semester/Functional Programming/Handin05/RayTracer/ExprParse/obj/Debug/ExprParse.dll.mdb

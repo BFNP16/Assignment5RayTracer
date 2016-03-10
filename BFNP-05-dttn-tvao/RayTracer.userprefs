@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Tests/Tests.fsproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExprParse/ExprParse.fsi">
+    <Files>
+      <File FileName="ExprParse/ExprParse.fs" Line="1" Column="1" />
+      <File FileName="Tests/PointTest.fs" Line="22" Column="1" />
+      <File FileName="Point/Point.fs" Line="1" Column="1" />
+      <File FileName="Vector/VectorTest.fs" Line="19" Column="1" />
+      <File FileName="Vector/Vector.fs" Line="18" Column="34" />
+      <File FileName="ExprParse/ExprParseTest.fs" Line="1" Column="1" />
+      <File FileName="ExprParse/ExprParse.fsi" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
